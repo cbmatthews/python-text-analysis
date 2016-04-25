@@ -3,6 +3,9 @@ Python Text Analysis for Data Visualizations Final Project
 
 The project was to utilize Python to do a word frequency analysis on a series of text documents over 5 time periods.  I chose to use the CEO letters from Berskshire Hathaway.  I picked the years, 1977, 1987, 1997, 2007, and 2015.
 
+#### Requirements
+* Python 3.5
+
 #### Input
 1. BH-1977.txt
 2. BH-1987.txt
