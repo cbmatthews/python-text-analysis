@@ -24,7 +24,7 @@ try:
 
     
     # Build the csv file usinf the csv.writer package 
-    with open('CBM-WordList.csv', 'w') as f:  
+    with open('BH-WordList.csv', 'w') as f:  
     	csvWriter = csv.writer(f, delimiter=',')
     	for s in sort1977: #Write words with counts higher than 10
 
